@@ -105,7 +105,7 @@ client.on('message', message => {
 //BOT HELP CMD
 client.on('message', message => {
     if (message.content.toLowerCase() === '!veto help') {
-	    message.reply("Need help with the Veto Bot? Visit my asshole or contact the developer: your mom looooool ");
+	    message.reply("HELP MESSAGE HERE");
     }
 });
 
